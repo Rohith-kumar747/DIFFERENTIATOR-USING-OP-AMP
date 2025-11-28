@@ -51,9 +51,13 @@ DIFFERENTIATOR
 
 TABULATION:
 
+![WhatsApp Image 2025-11-28 at 20 32 05_30be0be8](https://github.com/user-attachments/assets/55130f44-22de-4339-9a07-12c8a3e1cd73)
 
 GRAPH:
 
+![WhatsApp Image 2025-11-28 at 20 32 24_b9218d26](https://github.com/user-attachments/assets/90d4fb05-f186-45ef-955e-1c75dda66ed3)
+
 
 RESULT:
-
+ 
+ Thus an Differentiator using op-amp designed and their performancee was successfully tested using op-amp IC741
